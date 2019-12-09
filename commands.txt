@@ -1,0 +1,19 @@
+npm install lite-server --save-dev (watches files changes)
+in scripts :{} add these :
+"start":"npm run lite"
+"lite":"lite-server"
+
+sudo npm install -g @angular/cli@6.2.1
+ng help
+ng new restraunt --style=scss (to create new angular app with sass styling)
+cd restraunt
+npm install
+ng serve
+npm install @angular/material@6.4.7 --save (angular material for layouts)
+npm install @angular/cdk@6.4.7 --save
+npm install @angular/animations@6.1.7 --save(animations)
+npm install hammerjs@2.0.8 --save(for gestures)
+npm install --save @angular/flex-layout@6.0.0-beta.18
+
+ ng generate component menu(new component menu)
+
