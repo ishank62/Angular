@@ -1,2 +1,4 @@
-structural directives:
-ngFor (.map in react for looping)
+structural directives: add/remove/update dom
+ex: ngFor (.map in react for looping),
+ngIf(if statement),
+ngSwitch
