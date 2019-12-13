@@ -1,0 +1,8 @@
+parent to child
+https://www.youtube.com/watch?v=KVMfs8Xxe0E
+
+child to parent
+https://www.truecodex.com/course/angular-6/enable-and-disable-button-of-product-list-in-angular-6
+
+between siblings using service
+https://www.youtube.com/redirect?https://github.com/codewithsrini/AngularOutputProp
