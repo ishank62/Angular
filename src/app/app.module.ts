@@ -19,6 +19,7 @@ import { ReactiveFormsModule } from "@angular/forms";
 import { FlexLayoutModule } from "@angular/flex-layout";
 import { HttpClientModule } from "@angular/common/http";
 import { HttpModule } from "@angular/http";
+import { ProcessHTTPMsgService } from "./services/process-httpmsg.service";
 import { AppComponent } from "./app.component";
 
 import "hammerjs";
@@ -78,6 +79,7 @@ import { baseURL } from "./shared/baseurl";
     DishService,
     PromotionService,
     LeaderService,
+    ProcessHTTPMsgService,
     { provide: "BaseURL", useValue: baseURL }
   ],
   bootstrap: [AppComponent]
