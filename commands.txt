@@ -17,3 +17,8 @@ npm install --save @angular/flex-layout@6.0.0-beta.18
 
  ng generate component menu(new component menu)
 
+
+npm install json-server -g
+create json-server folder and paste db.json file and make public folder inside it put images folder
+->json-server --watch db.json -d 2000   (2000 is for 2 sec delay in request result)
+
